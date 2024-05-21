@@ -1,4 +1,4 @@
-"Pathways to Progress: Analyzing Promotion Potentials"
+# Pathways to Progress: Analyzing Promotion Potentials
 The project name "Pathways to Progress: Analyzing Promotion Potentials" is both engaging and descriptive. It effectively conveys the focus on understanding and enhancing the factors influencing employee promotions within an organization. Here's a detailed explanation of the steps involved in the analysis, along with some additional improvements and insights.
 # 1. Data Loading and Initial Exploration
 Initial exploration helps understand the structure and basic statistics of the dataset.
